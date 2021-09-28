@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SeleniumPack&amp;ChromeDriver">
+    <CLASSES>
+      <root url="file://G:/My Drive/DRIVER KURULUM DOSYALARI&amp;LIB/SeleniumPack&amp;ChromeDriver" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://G:/My Drive/DRIVER KURULUM DOSYALARI&amp;LIB/SeleniumPack&amp;ChromeDriver" />
+    </SOURCES>
+    <jarDirectory url="file://G:/My Drive/DRIVER KURULUM DOSYALARI&amp;LIB/SeleniumPack&amp;ChromeDriver" recursive="false" />
+    <jarDirectory url="file://G:/My Drive/DRIVER KURULUM DOSYALARI&amp;LIB/SeleniumPack&amp;ChromeDriver" recursive="false" type="SOURCES" />
+  </library>
+</component>
